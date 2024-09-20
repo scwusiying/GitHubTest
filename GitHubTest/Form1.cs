@@ -19,12 +19,17 @@ namespace GitHubTest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "歡迎";
+           
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = "光臨";
+          
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            label3.Text = "歡迎來到主分支";
         }
     }
 }
