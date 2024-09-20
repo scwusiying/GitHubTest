@@ -21,5 +21,10 @@ namespace GitHubTest
         {
             label1.Text = "歡迎";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label2.Text = "光臨";
+        }
     }
 }
